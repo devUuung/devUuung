@@ -4,7 +4,7 @@
 
 <p align="center" display="inline-block">
   <img alt="Static Badge" src="https://img.shields.io/badge/ML-NONE?color=blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/AR-NONE?color=green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/XAI-NONE?color=green">
 </p>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
