@@ -1,15 +1,53 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header&text=Dev_Ung&fontSize=70&fontColor=FFFFFF&fontAlign=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=220&section=header&text=Ungsik%20Kim&fontSize=60&fontColor=FFFFFF&fontAlign=75" />
 
-<h3 align="center">📋 Interests 📋</h3>
-
-<p align="center" display="inline-block">
-  <img alt="Static Badge" src="https://img.shields.io/badge/ML-NONE?color=blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/XAI-NONE?color=green">
+<h3 align="center">M.S. Student @ Gyeongsang National University</h3>
+<p align="center">
+  Interested in XAI and Privacy-Preserving XAI
 </p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/XAI-Research-green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Privacy--Preserving_XAI-Research-orange">
+</p>
 
-- Kaggle "ICR - Identifying Age-Related Conditions" Competition 실버 메달 (126th)
-- 제4차 USG AI·데이터 문제해결 제조혁신 경진대회 2등(최우수상) 입상
-- 2024 스마트제조ICT전공 캡스톤종합설계 경진대회 우수상 입상
-- 제5차 USG AI·데이터 문제해결 제조혁신 경진대회 3등(최우수상) 입상
+---
+
+## About Me
+
+I am an M.S. student at Gyeongsang National University. My research focuses on explainable artificial intelligence (XAI), with a particular interest in privacy-preserving explanation methods.
+
+Recently, I have been exploring how XAI methods can be adapted to privacy-sensitive settings, especially under encrypted computation. I am interested in developing explanation systems that are both trustworthy and privacy-aware.
+
+---
+
+## Research Interests
+
+- XAI
+- Privacy-Preserving XAI
+
+---
+
+## Research Experience
+
+### Argumentative XAI with Higher Fidelity
+- Proposed a layer-aware mechanism to reduce fidelity loss in argumentative XAI
+- Introduced quantitative metrics for fair and model-agnostic comparison
+- Accepted to **CIKM 2025 (Full Paper)**
+
+### Privacy-Preserving Argumentative Explanations
+- Explored encrypted-domain generation of argumentative explanations
+- Focused on computing explanations over ciphertexts so that only end users can decrypt them
+- Accepted to **AAAI 2026 Student Abstract**
+
+---
+
+## Awards
+
+- Silver Medal, Kaggle **"ICR - Identifying Age-Related Conditions"** Competition (126th)
+- 2nd Prize (Grand Prize), **4th USG AI·Data Problem-Solving Manufacturing Innovation Contest**
+- Excellence Award, **2024 Smart Manufacturing ICT Capstone Design Contest**
+- 3rd Prize (Grand Prize), **5th USG AI·Data Problem-Solving Manufacturing Innovation Contest**
+
+---
+
+![](./profile-3d-contrib/profile-green-animate.svg)
