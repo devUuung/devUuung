@@ -39,6 +39,9 @@ Recently, I have been exploring how XAI methods can be adapted to privacy-sensit
 - Focused on computing explanations over ciphertexts so that only end users can decrypt them
 - Accepted to **AAAI 2026 Student Abstract**
 
+### TRACE: Targeted Ranking-Aware Counterfactual Explanation for Sequential Recommendation
+- Accepted to **ACM RecSys 2026 (Main Track)**
+
 ---
 
 ## Academic Service
