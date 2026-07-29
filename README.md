@@ -2,28 +2,32 @@
 
 <h3 align="center">M.S. Student @ Gyeongsang National University</h3>
 <p align="center">
-  Interested in XAI and Privacy-Preserving XAI
+  Interested in Algorithms, Theory of Computation, Automata, and Efficient XAI
 </p>
 
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/XAI-Research-green">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Privacy--Preserving_XAI-Research-orange">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Algorithms-Research-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Theory_of_Computation-Research-purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Automata-Research-orange">
+  <img alt="Static Badge" src="https://img.shields.io/badge/XAI_Algorithms-Optimization-green">
 </p>
 
 ---
 
 ## About Me
 
-I am an M.S. student at Gyeongsang National University. My research focuses on explainable artificial intelligence (XAI), with a particular interest in privacy-preserving explanation methods.
+I am an M.S. student at Gyeongsang National University. My current research interests lie in algorithms, theory of computation, and automata theory.
 
-Recently, I have been exploring how XAI methods can be adapted to privacy-sensitive settings, especially under encrypted computation. I am interested in developing explanation systems that are both trustworthy and privacy-aware.
+I am particularly interested in designing and optimizing algorithms for computational problems in explainable artificial intelligence (XAI), with an emphasis on efficiency, scalability, and rigorous analysis.
 
 ---
 
 ## Research Interests
 
-- XAI
-- Privacy-Preserving XAI
+- Algorithms and Optimization
+- Theory of Computation
+- Automata Theory
+- Efficient Algorithms for XAI
 
 ---
 
@@ -34,9 +38,9 @@ Recently, I have been exploring how XAI methods can be adapted to privacy-sensit
 - Introduced quantitative metrics for fair and model-agnostic comparison
 - Accepted to **CIKM 2025 (Full Paper)**
 
-### Privacy-Preserving Argumentative Explanations
-- Explored encrypted-domain generation of argumentative explanations
-- Focused on computing explanations over ciphertexts so that only end users can decrypt them
+### Encrypted-Domain Argumentative Explanations
+- Explored algorithms for generating argumentative explanations over encrypted representations
+- Focused on computational methods that allow explanations to be recovered only by end users
 - Accepted to **AAAI 2026 Student Abstract**
 
 ### TRACE: Targeted Ranking-Aware Counterfactual Explanation for Sequential Recommendation
