@@ -41,6 +41,12 @@ Recently, I have been exploring how XAI methods can be adapted to privacy-sensit
 
 ---
 
+## Academic Service
+
+- Program Committee Member, AAAI Conference on Artificial Intelligence (AAAI-27), 2027
+
+---
+
 ## Awards
 
 - Silver Medal, Kaggle **"ICR - Identifying Age-Related Conditions"** Competition (126th)
